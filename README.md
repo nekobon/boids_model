@@ -4,12 +4,10 @@ sheep-and-sheepdog
 Graphical simulation of sheep and sheepdogs using Boids model
 
 Authors:
-  Jason Fu
-  Yu Tomita
+  Jason Fu and   Yu Tomita
 
 Requires:
-  Python 2.5+
-  pyOpenGL
+  Python 2.5+,   pyOpenGL
 
 To run:
   $ python sheep_dog_graphical.py
